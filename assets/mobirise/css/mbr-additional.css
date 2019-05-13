@@ -1310,13 +1310,13 @@ body {
   background: linear-gradient(45deg, #717c9f, #31bdc2);
 }
 .cid-rqhBy36uJ1 {
-  padding-top: 105px;
-  padding-bottom: 105px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/auto-collision-repair2x-2000x1328.jpg");
 }
 .cid-rqeKSXU1gc {
   padding-top: 15px;
-  padding-bottom: 105px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rqeKSXU1gc h3 {
@@ -1346,8 +1346,8 @@ body {
   color: #585858;
 }
 .cid-rq9AZFEH3C {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 30px;
 }
 .cid-rq9AZFEH3C .carousel-control {
   background: #000;
@@ -1552,7 +1552,7 @@ body {
   color: #ffffff;
 }
 .cid-rq9AZFEH3C .mbr-section-subtitle I {
-  color: #62697f;
+  color: #ffffff;
 }
 .cid-rpNbKUcNk7 .navbar {
   background: #62697f;
@@ -1955,7 +1955,7 @@ body {
 }
 .cid-rnydaOd9Dy {
   padding-top: 15px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rnydaOd9Dy .mbr-section-subtitle {
@@ -1981,15 +1981,6 @@ body {
   border-radius: 50%;
   color: #f49d0c;
   text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-rnydaOd9Dy .cards-block {
-    border-top: 2px solid #17999e;
-  }
-}
-.cid-rnydaOd9Dy .cards-block .card {
-  border-bottom: 2px solid #17999e;
-  border-radius: 0;
 }
 .cid-rnydaOd9Dy .cards-container {
   display: flex;
@@ -2038,8 +2029,8 @@ body {
   color: #17999e;
 }
 .cid-rkJcqKpbox {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/mainhomedesk2-1500x625.jpg");
 }
 .cid-rkJcqKpbox .mbr-section-subtitle {
@@ -2056,7 +2047,7 @@ body {
 }
 .cid-rkJcqKpbox .mbr-author-desc {
   display: block;
-  color: #62697f;
+  color: #f49d0c;
 }
 .cid-rkJcqKpbox .mbr-author-name {
   color: #62697f;
@@ -2109,8 +2100,8 @@ body {
   color: #ffffff;
 }
 .cid-rqeIfZza0A {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rqeIfZza0A P {
@@ -2122,6 +2113,10 @@ body {
 .cid-rqeIfZza0A .mbr-text,
 .cid-rqeIfZza0A .mbr-section-btn {
   color: #585858;
+}
+.cid-rqeIfZza0A .mbr-text,
+.cid-rqeIfZza0A .mbr-section-btn I {
+  color: #686868;
 }
 .cid-rpNbQrJiwx {
   padding-top: 30px;
