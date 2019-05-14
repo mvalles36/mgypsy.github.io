@@ -1,1 +1,6 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
 
+# Redirect default Netlify subdomain to primary domain
+https://customautobodyrepair.netlify.com/* https://customautobody.repair/:splat 301!
+http://promo.customautobody.repair/* https://promo.customautobody.repair/:splat 301!
+http://your.customautobody.repair/* https://your.customautobody.repair/:splat 301!
