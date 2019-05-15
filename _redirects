@@ -2,6 +2,6 @@
 
 # Redirect default Netlify subdomain to primary domain
 https://customautobodyrepair.netlify.com/* https://customautobody.repair/:splat 301!
-http://promo.customautobody.repair/* https://customautobody.repair/promo:splat 301!
-http://your.customautobody.repair/* https://customautobody.repair/your:splat 301!
-http://estimate.customautobody.repair/* https://customautobody.repair/estimate:splat 301!
+# Rewrite a path
+http://your.customautobody.repair https://your.customautobody.repair    200
+http://estimate.customautobody.repair https://customautobody.repair/estimate   200
